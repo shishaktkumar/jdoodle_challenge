@@ -18,4 +18,4 @@ Deliverables:
 
 1. Terraform code - share the GitHub link
 
-2. Demo Video - record a demo video and share the link (Loom or YouTube preferred)
+2. Demo Video - record a demo video and share the link (YouTube preferred)  https://youtu.be/nflmvTMBcT8 
